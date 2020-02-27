@@ -1,0 +1,70 @@
+book_filename: "happygitwithr"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+new_session: true
+
+rmd_files: [
+  "index.Rmd",
+
+  "overview.Rmd",
+  "contributors.Rmd",
+  "workshops.Rmd",
+
+  "install-intro.Rmd",
+  "install-github-acct.Rmd",
+  "install-r-rstudio.Rmd",
+  "install-git.Rmd",
+  "install-introduce-self-git.Rmd",
+  "install-git-client.Rmd",
+
+  "connect-intro.Rmd",
+  "connect-git-github.Rmd",
+  "connect-credential-caching.Rmd",
+  "connect-ssh-keys.Rmd",
+  "connect-rstudio-git-github.Rmd",
+  "connect-can-rstudio-use-git.Rmd",
+  "connect-troubleshooting.Rmd",
+
+  "usage-intro.Rmd",
+  "usage-new-project-github-first.Rmd",
+  "usage-existing-project-github-first.Rmd",
+  "usage-existing-project-github-last.Rmd",
+  "usage-rmd-and-github.Rmd",
+  "usage-r-script-and-github.Rmd",
+
+  "git-intro.Rmd",
+  "git-basics.Rmd",
+  "git-commands.Rmd",
+  "git-branches.Rmd",
+  "git-remotes.Rmd",
+
+  "workflows-intro.Rmd",
+  "workflows-repeated-amend.Rmd",
+  "workflows-push-rejected.Rmd",
+  "workflows-pull.Rmd",
+  "workflows-see-the-past.Rmd",
+  "workflows-fork-and-clone.Rmd",
+  "workflows-upstream-changes-into-fork.Rmd",
+  "workflows-explore-extend-pull-request.Rmd",
+  "workflows-make-github-repo-browsable.Rmd",
+
+  "prompt-clone.Rmd",
+  "prompt-fork-pr-bingo.Rmd",
+  "prompt-burn-it-all-down.Rmd",
+  "prompt-practice-resets.Rmd",
+  "prompt-search-github.Rmd",
+
+  "notes-intro.Rmd",
+  "notes-classroom-overview.Rmd",
+  "notes-ideas.Rmd",
+  "notes-bookdown-cheat-sheet.Rmd",
+
+  "appendix.Rmd",
+  "shell.Rmd",
+  "github-api-tokens.Rmd",
+  "comic-relief.Rmd",
+
+  "references.Rmd"
+]
